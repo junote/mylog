@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on PaperMod</title>
+    <title>Posts on Mylog</title>
     <link>https://junote.github.io/mylog/posts/</link>
-    <description>Recent content in Posts on PaperMod</description>
+    <description>Recent content in Posts on Mylog</description>
     <image>
-      <title>PaperMod</title>
+      <title>Mylog</title>
       <url>https://junote.github.io/mylog/papermod-cover.png</url>
       <link>https://junote.github.io/mylog/papermod-cover.png</link>
     </image>
@@ -19,6 +19,13 @@
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://junote.github.io/mylog/posts/hello-world/</guid>
       <description>Guide to Hugo-PaperMod-Template</description>
+    </item>
+    <item>
+      <title>Template</title>
+      <link>https://junote.github.io/mylog/posts/template/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://junote.github.io/mylog/posts/template/</guid>
+      <description>Template</description>
     </item>
   </channel>
 </rss>
