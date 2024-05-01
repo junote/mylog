@@ -9,4 +9,4 @@ math: true
 ShowBreadCrumbs: true
 ---
 
-![test](/imgs/hugo-logo-wide.svg)
+![test](/imgs/shiprock.jpg)
