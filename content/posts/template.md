@@ -9,6 +9,4 @@ math: true
 ShowBreadCrumbs: true
 ---
 
-![shiprock](/assets/img/shiprock.jpg)
-![hugo](/assets/img/hugo-logo-wide.svg)
-![papermod](/papermod-cover.png)
+![papermod](/images/papermod-cover.png)
