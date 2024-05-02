@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mylog</title>
-    <link>https://junote.github.io/mylog/</link>
-    <description>Recent content on Mylog</description>
+    <title>Hugo on Mylog</title>
+    <link>https://junote.github.io/mylog/tags/hugo/</link>
+    <description>Recent content in Hugo on Mylog</description>
     <image>
       <title>Mylog</title>
       <url>https://junote.github.io/mylog/papermod-cover.png</url>
@@ -12,27 +12,13 @@
     <generator>Hugo -- 0.125.5</generator>
     <language>en</language>
     <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://junote.github.io/mylog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://junote.github.io/mylog/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo</title>
       <link>https://junote.github.io/mylog/posts/hugo/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
       <guid>https://junote.github.io/mylog/posts/hugo/</guid>
       <description>How to use this template Click the Use this template button above. Create a new repo from this template. Rename it to &amp;lt;your_repo_name&amp;gt;. Don&amp;rsquo;t forget to check the box Include all branches. Change the baseURL in config.yml to your site&amp;rsquo;s URL. e.g. https://&amp;lt;your_github_id&amp;gt;.github.io/&amp;lt;your_repo_name&amp;gt; Open GitHub Pages in your repo&amp;rsquo;s Settings -&amp;gt; Pages -&amp;gt; Source: Deploy from a branch -&amp;gt; Branch: gh_pages -&amp;gt; Folder: /root -&amp;gt; Save. (*Optional)Create a markdown file to write your content in content folder.</description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>https://junote.github.io/mylog/posts/hello-world/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://junote.github.io/mylog/posts/hello-world/</guid>
-      <description>Guide to Hugo-PaperMod-Template</description>
-    </item>
-    <item>
-      <title>Template</title>
-      <link>https://junote.github.io/mylog/posts/template/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://junote.github.io/mylog/posts/template/</guid>
-      <description>Template</description>
     </item>
   </channel>
 </rss>
