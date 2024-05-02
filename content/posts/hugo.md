@@ -1,4 +1,15 @@
-# Hugo PaperMod Template
+---
+author: "Junote"
+title: "hugo"
+date: "2024-05-02"
+lastmod: "2024-05-02"
+tags: ["hugo"]
+ShowToc: true
+math: true
+ShowBreadCrumbs: true
+---
+
+
 
 ## How to use this template
 
@@ -11,7 +22,15 @@
 
 Notice: If you meet the problem like `remote: Permission to xxx denied to github-actions[bot].` when you push your changes, you need to give the permission to the `github-actions[bot]` in your repo's by following the steps below: `Settings -> Actions -> General -> Workflow permissions -> Read and write permissions -> Save`.
 
+## images
+> post文件夹下直接存放 Markdown 文件，图片存储在static/images文件夹下，引用时![图名](/images/image.png), 但是github不支持这种相对路径，失败。
+
+
+
+
+
 ## reference
-1. https://github.com/awesome-actions-template/hugo-papermod-template\
+1. https://github.com/awesome-actions-template/hugo-papermod-template
 2. https://www.bilibili.com/video/BV1ua411B7WH/?spm_id_from=333.880.my_history.page.click&vd_source=a4e3e223ffde8596a5f54a5af60f891d
 3. https://theplaybook.dev/docs/deploy-hugo-to-github-pages/
+
